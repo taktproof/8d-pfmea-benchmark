@@ -1,0 +1,15 @@
+{
+  "name": "@taktproof/8d-pfmea-benchmark",
+  "version": "0.1.0",
+  "description": "Deterministic IATF 16949 / AIAG-VDA 8D x PFMEA audit readiness linter and 20-case synthetic manufacturing benchmark.",
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taktproof/8d-pfmea-benchmark.git"
+  },
+  "homepage": "https://taktproof.com/#auditor",
+  "scripts": {
+    "test": "node scripts/run_benchmark.mjs"
+  }
+}
