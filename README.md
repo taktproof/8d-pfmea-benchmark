@@ -3,7 +3,7 @@
 Zero-dependency deterministic rule linter and **20-case synthetic manufacturing evaluation dataset** for auditing IATF 16949 / AIAG-VDA 8D corrective action drafts before customer submission.
 
 - **Interactive Web Checker**: [https://taktproof.com/#auditor](https://taktproof.com/#auditor)
-- **Maintainer**: TaktProof Engineering (Operated by Jetspeed Consulting, 300 West Yan An Road, Shanghai, China · `hello@taktproof.com`)
+- **Maintainer**: TaktProof Engineering (Operated by Shaoyang Information Technology, 300 West Yan An Road, Shanghai, China · Sales: `hello@taktproof.com` · Support: `support@taktproof.com`)
 
 ---
 
@@ -44,4 +44,4 @@ npm test
 
 ## License
 
-MIT License. Copyright (c) 2026 Jetspeed Consulting (TaktProof).
+MIT License. Copyright (c) 2026 Shaoyang Information Technology (TaktProof).
